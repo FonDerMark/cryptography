@@ -55,4 +55,4 @@ def decrypt(file_to_decrypt):
 
 
 if __name__ == '__main__':
-    decrypt('example.txt')
+    write_key()
